@@ -1,1 +1,1 @@
-puts "I am a github champ"
+puts "I am a github champion \o/"
